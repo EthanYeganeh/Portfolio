@@ -13,10 +13,9 @@ const Navbar = () => {
                     transition={{ duration: 0.5 }}
                 >Ethan the dev</motion.span>
             <div className="social">
-                <a href="#"><img src="/facebook.png" alt="" /></a>
-                <a href="#"><img src="/instagram.png" alt="" /></a>
-                <a href="#"><img src="/youtube.png" alt="" /></a>
-                <a href="#"><img src="/dribbble.png" alt="" /></a>
+                <a href="https://github.com/EthanYeganeh"><img src="/github.png" alt="" /></a>
+                <a href="https://www.youtube.com/channel/UCNx2NAWWEztme7zauu02ZzA"><img src="/youtube.png" alt="" /></a>
+                <a href="https://www.linkedin.com/in/ethan-yeganeh-65b371254/"><img src="/linkedin.png" alt="" /></a>
             </div>
         </div>
         </div>
