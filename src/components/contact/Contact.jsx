@@ -55,8 +55,11 @@ const Contact = () => {
                     <button>Submit</button>
                 </motion.form>
             </div>
-
+            <div className="copyRight">
+                <p>© 2024 Ethan Yeganeshenas. All rights reserved.</p>
+            </div>
         </motion.div>
+        
     )
 }
 export default Contact;

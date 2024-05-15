@@ -45,4 +45,13 @@
             }
         }
     }
+    .copyRight {
+        position: fixed;
+        bottom: 0; 
+        left: 50%; 
+        transform: translateX(-50%); 
+        background-color: transparent;
+        padding: 10px 20px;
+        color: white; 
+    }
 }

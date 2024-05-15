@@ -6,25 +6,25 @@ const items = [
     {
         id:1,
         title:"Flexy Gig",
-        img:"/public/FlexyGig.jpg",
+        img:"/FlexyGig.jpg",
         desc:"Links Gig contractors and employers via a range of intuitive features facilitating job matching for individuals and finding the right personnel for employers.",
     },
     {
         id:2,
         title:"Book Collection Using PyMongo",
-        img:"/public/pymongo.webp",
+        img:"/pymongo.webp",
         desc:"A book collection aimed at highlighting the essential skills for Python development and advancing backend proficiency with MongoDB..",
     },
     {
         id:3,
         title:"Weather Android App",
-        img:"/public/Android.jpg",
+        img:"/Android.jpg",
         desc:"An Android weather application that utilizes geolocation data to display precise weather conditions for specific locations, providing users with accurate and up-to-date weather information.",
     },
     {
         id:4,
         title:"Java Server face App",
-        img:"/public/Java.webp",
+        img:"/Java.webp",
         desc:"a java project that utilizes the functionality of the JSF using bootstrap to showcase the ability of coding in OOP programming languages such as java.",
     },
 ];
